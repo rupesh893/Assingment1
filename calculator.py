@@ -6,3 +6,5 @@ def div (x,y):
     return(x/y)
 def multi (x,y):
     return(x^y)
+def sum (x,y)
+    return(x+y):
